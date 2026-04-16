@@ -1,0 +1,309 @@
+========== Multi-Utility Toolkit ==========
+1. Datetime & Time Operations
+2. Mathematical Operations
+3. Random Data Generation
+4. Generate UUID
+5. File Operations
+6. Explore Module Attributes (dir())
+7. Exit
+Enter your choice:  1
+
+Datetime and Time Operations:
+1. Display current date and time
+2. Calculate difference between two dates
+3. Format date
+4. Stopwatch
+5. Countdown Timer
+6. Back to Main Menu
+Enter your choice:  1
+Current Date and Time: 2026-04-16 12:30:41.764275
+
+Datetime and Time Operations:
+1. Display current date and time
+2. Calculate difference between two dates
+3. Format date
+4. Stopwatch
+5. Countdown Timer
+6. Back to Main Menu
+Enter your choice:  2
+Enter first date (YYYY-MM-DD):  2025-05-17
+Enter second date (YYYY-MM-DD):  2026-02-13
+Difference: 272 days
+
+Datetime and Time Operations:
+1. Display current date and time
+2. Calculate difference between two dates
+3. Format date
+4. Stopwatch
+5. Countdown Timer
+6. Back to Main Menu
+Enter your choice:  2
+Enter first date (YYYY-MM-DD):  2009-05-17
+Enter second date (YYYY-MM-DD):  2008-03-12
+Difference: 431 days
+
+Datetime and Time Operations:
+1. Display current date and time
+2. Calculate difference between two dates
+3. Format date
+4. Stopwatch
+5. Countdown Timer
+6. Back to Main Menu
+Enter your choice:  3
+Formatted Date: 16-04-2026 12:32:10
+
+Datetime and Time Operations:
+1. Display current date and time
+2. Calculate difference between two dates
+3. Format date
+4. Stopwatch
+5. Countdown Timer
+6. Back to Main Menu
+Enter your choice:  7r4
+Invalid choice!
+
+Datetime and Time Operations:
+1. Display current date and time
+2. Calculate difference between two dates
+3. Format date
+4. Stopwatch
+5. Countdown Timer
+6. Back to Main Menu
+Enter your choice:  4
+Press Enter to start stopwatch... 2
+Press Enter to stop stopwatch... 15
+Elapsed Time: 2.02 seconds
+
+Datetime and Time Operations:
+1. Display current date and time
+2. Calculate difference between two dates
+3. Format date
+4. Stopwatch
+5. Countdown Timer
+6. Back to Main Menu
+Enter your choice:  5
+Enter seconds:  1
+1
+Time's up!
+
+Datetime and Time Operations:
+1. Display current date and time
+2. Calculate difference between two dates
+3. Format date
+4. Stopwatch
+5. Countdown Timer
+6. Back to Main Menu
+Enter your choice:  6
+
+========== Multi-Utility Toolkit ==========
+1. Datetime & Time Operations
+2. Mathematical Operations
+3. Random Data Generation
+4. Generate UUID
+5. File Operations
+6. Explore Module Attributes (dir())
+7. Exit
+Enter your choice:  2
+
+Mathematical Operations:
+1. Factorial
+2. Compound Interest
+3. Trigonometric Calculation
+4. Area of Circle
+5. Back to Main Menu
+Enter your choice:  1
+Enter a number:  23
+Factorial: 25852016738884976640000
+
+Mathematical Operations:
+1. Factorial
+2. Compound Interest
+3. Trigonometric Calculation
+4. Area of Circle
+5. Back to Main Menu
+Enter your choice:  2
+Enter principal:  12
+Enter rate (%):  37
+Enter time (years):  2
+Compound Interest: 22.52
+
+Mathematical Operations:
+1. Factorial
+2. Compound Interest
+3. Trigonometric Calculation
+4. Area of Circle
+5. Back to Main Menu
+Enter your choice:  3
+Enter angle in degrees:  80
+Sin: 0.984807753012208
+Cos: 0.17364817766693041
+Tan: 5.671281819617707
+
+Mathematical Operations:
+1. Factorial
+2. Compound Interest
+3. Trigonometric Calculation
+4. Area of Circle
+5. Back to Main Menu
+Enter your choice:  4
+Enter radius:  23
+Area: 1661.9025137490005
+
+Mathematical Operations:
+1. Factorial
+2. Compound Interest
+3. Trigonometric Calculation
+4. Area of Circle
+5. Back to Main Menu
+Enter your choice:  5
+
+========== Multi-Utility Toolkit ==========
+1. Datetime & Time Operations
+2. Mathematical Operations
+3. Random Data Generation
+4. Generate UUID
+5. File Operations
+6. Explore Module Attributes (dir())
+7. Exit
+Enter your choice:  3
+
+Random Data Generation:
+1. Random Number
+2. Random List
+3. Random Password
+4. Random OTP
+5. Back to Main Menu
+Enter your choice:  1
+Random Number: 22
+
+Random Data Generation:
+1. Random Number
+2. Random List
+3. Random Password
+4. Random OTP
+5. Back to Main Menu
+Enter your choice:  2
+Random List: [40, 1, 19, 17, 12]
+
+Random Data Generation:
+1. Random Number
+2. Random List
+3. Random Password
+4. Random OTP
+5. Back to Main Menu
+Enter your choice:  3
+Enter password length:  13
+Generated Password: 9yIowkLVUesoC
+
+Random Data Generation:
+1. Random Number
+2. Random List
+3. Random Password
+4. Random OTP
+5. Back to Main Menu
+Enter your choice:  4
+Generated OTP: 7682
+
+Random Data Generation:
+1. Random Number
+2. Random List
+3. Random Password
+4. Random OTP
+5. Back to Main Menu
+Enter your choice:  5
+
+========== Multi-Utility Toolkit ==========
+1. Datetime & Time Operations
+2. Mathematical Operations
+3. Random Data Generation
+4. Generate UUID
+5. File Operations
+6. Explore Module Attributes (dir())
+7. Exit
+Enter your choice:  4
+
+Generated UUID: 8cf62534-e196-4577-8b33-0f08f6fc68a9
+
+========== Multi-Utility Toolkit ==========
+1. Datetime & Time Operations
+2. Mathematical Operations
+3. Random Data Generation
+4. Generate UUID
+5. File Operations
+6. Explore Module Attributes (dir())
+7. Exit
+Enter your choice:  5
+
+File Operations:
+1. Create File
+2. Write File
+3. Read File
+4. Append File
+5. Back to Main Menu
+Enter your choice:  1
+Enter file name:  Sakshi
+File created successfully!
+
+File Operations:
+1. Create File
+2. Write File
+3. Read File
+4. Append File
+5. Back to Main Menu
+Enter your choice:  2
+Enter file name:  Sakshi
+Enter data:  I am sakshi bagul.I studies i Ai&ml
+Data written successfully!
+
+File Operations:
+1. Create File
+2. Write File
+3. Read File
+4. Append File
+5. Back to Main Menu
+Enter your choice:  3
+Enter file name:  Sakshi
+File Content:
+ I am sakshi bagul.I studies i Ai&ml
+
+File Operations:
+1. Create File
+2. Write File
+3. Read File
+4. Append File
+5. Back to Main Menu
+Enter your choice:  4
+Enter file name:  Sakshi
+Enter data to append:  i studies python 
+Data appended!
+
+File Operations:
+1. Create File
+2. Write File
+3. Read File
+4. Append File
+5. Back to Main Menu
+Enter your choice:  5
+
+========== Multi-Utility Toolkit ==========
+1. Datetime & Time Operations
+2. Mathematical Operations
+3. Random Data Generation
+4. Generate UUID
+5. File Operations
+6. Explore Module Attributes (dir())
+7. Exit
+Enter your choice:  6
+Enter module name (math/random/datetime):  datetime
+['MAXYEAR', 'MINYEAR', 'UTC', '__all__', '__builtins__', '__cached__', '__doc__', '__file__', '__loader__', '__name__', '__package__', '__spec__', 'date', 'datetime', 'datetime_CAPI', 'time', 'timedelta', 'timezone', 'tzinfo']
+
+========== Multi-Utility Toolkit ==========
+1. Datetime & Time Operations
+2. Mathematical Operations
+3. Random Data Generation
+4. Generate UUID
+5. File Operations
+6. Explore Module Attributes (dir())
+7. Exit
+Enter your choice:  7
+Show more outputs
